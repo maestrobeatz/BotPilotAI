@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BotPiloAI/static/css/main.f855e6bc.css",
+    "main.js": "/BotPiloAI/static/js/main.0d0dc346.js",
+    "static/js/453.1c3efdef.chunk.js": "/BotPiloAI/static/js/453.1c3efdef.chunk.js",
+    "index.html": "/BotPiloAI/index.html",
+    "main.f855e6bc.css.map": "/BotPiloAI/static/css/main.f855e6bc.css.map",
+    "main.0d0dc346.js.map": "/BotPiloAI/static/js/main.0d0dc346.js.map",
+    "453.1c3efdef.chunk.js.map": "/BotPiloAI/static/js/453.1c3efdef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0d0dc346.js"
+  ]
+}
