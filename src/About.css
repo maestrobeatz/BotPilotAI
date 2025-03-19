@@ -1,0 +1,10 @@
+.about-container {
+  padding: 60px;
+  text-align: center;
+  background: #f4f4f4;
+}
+
+.about-container h2 {
+  font-size: 2.5rem;
+  color: #333;
+}

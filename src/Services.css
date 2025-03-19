@@ -1,0 +1,30 @@
+.services-container {
+  padding: 60px;
+  background: white;
+  text-align: center;
+}
+
+.service-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.service-card {
+  background: #222;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+}
+
+.service-card h3 {
+  font-size: 1.5rem;
+}
+
+.service-card p {
+  font-size: 1rem;
+  margin-top: 10px;
+}
